@@ -21,8 +21,8 @@ title      : Karl Truong
 email      : truong.d.karl@gmail.com #this is also the email contact forms will go to
 description: "My portfolio"
 author     : Karl Truong
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+logo:     #optional, defaults to site title
+  path: assets/img/Smash Ultimate Phanto Sheik PFP.png
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
