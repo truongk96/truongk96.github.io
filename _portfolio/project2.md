@@ -12,7 +12,7 @@ caption:
 **SCR4P** is a 3D Unity platformer with three complete levels with an integrated time attack mode. The player must complete each level before their health reaches zero. Powerups and various enemy designs are scattered about in each level.
 
 {:.list-inline}
-- Date: December 12th, 2020
-- Framework: Unity, C#
-- Category: Game Dev
+- **Date:** December 12th, 2020
+- **Framework:** Unity, C#
+- **Category:** Game Dev
 
