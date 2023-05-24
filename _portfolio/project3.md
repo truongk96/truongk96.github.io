@@ -12,7 +12,7 @@ caption:
 **Ninja Sandbox VR** is an Unreal Engine 4 demo about throwing shurikens with modified physics. Utilizing motion controls, the player is required to throw the weapon at procedurally generated balloons. A key highlight is the after effects trail left behind by a thrown shuriken, allowing the player to better understand the trajectory of their prior throw.
 
 {:.list-inline}
-- Date: August 21st, 2018
-- Framework: Unreal Engine 4, C++
-- Category: Game Dev
+- **Date:** August 21st, 2018
+- **Framework:** Unreal Engine 4, C++
+- **Category:** Game Dev
 
