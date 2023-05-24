@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Code Alpha 0
+subtitle: A 3D FPS Unity Demo
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Screenshot of Code Alpha 0
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Code Alpha 0
+  subtitle: 3D FPS Unity Demo
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+**Code Alpha 0** is a 3D FPS Unity demo based around Rigidbody physics for its parkour system. Primary areas of interest went into the underlying math calculations performed on slopes and walls, allowing for engaging and fun gameplay experience.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: May 23rd, 2021
+- Framework: Unity, C#
+- Category: Game Dev
 
