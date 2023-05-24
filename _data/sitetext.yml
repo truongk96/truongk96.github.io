@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "[Game Development](https://phantoyoshivr.itch.io/)"
         desc: "I am a game developer at heart and I love creating virtual worlds that stirs the imagination. Click on the icon to view my itch.io page or view my portfolio below for more details!"
-        icon: fa-solid fa-rectangle-terminal #find more at https://fontawesome.com/icons
+        icon: fas fa-rectangle-terminal #find more at https://fontawesome.com/icons
       - title: "Japanese"
         desc: "I have an affinity for the Japanese language, so much so that it is one of my degrees. I still strive to expand my knowledge of the language."
         icon: fas fa-laptop
