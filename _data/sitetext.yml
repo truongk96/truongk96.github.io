@@ -11,21 +11,21 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to my Website!
+    text: Karl Truong
+    button: Continue
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Skills"
+    text: "Thank you for stopping by my website! I am currently a Game Developer for a volunteer group and a computer sales associate at a brick and morter store. Here's a few things about me:"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Game Development](https://phantoyoshivr.itch.io/)"
+        desc: "I am a game developer at heart and I love creating virtual worlds that stirs the imagination. Click on the icon to view my itch.io page or view my portfolio below for more details!"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Japanese"
+        desc: "I have an affinity for the Japanese language, so much so that it is one of my degrees."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
