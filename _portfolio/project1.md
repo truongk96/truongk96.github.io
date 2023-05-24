@@ -1,7 +1,7 @@
 ---
 title: Code Alpha 0
 subtitle: A 3D FPS Unity Demo
-image: assets/img/portfolio/Code_Alpha_0_1.png
+image: assets/img/portfolio/Code_Alpha_0_1.png, assets/img/portfolio/Code_Alpha_0_2.png
 alt: Screenshot of Code Alpha 0
 
 caption:
