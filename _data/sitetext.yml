@@ -37,10 +37,10 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  experience:
+  timeline:
     title: "Work Experience"
     text: "My work experience"
-    section: experience
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
