@@ -44,9 +44,9 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Western Washington University"
+        year: "2017-2020"
+        desc: "**TODO:** Talk about WWU experience here."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Onward <br> to the <br> Future!"
 
   about:
     title: "About Me"
