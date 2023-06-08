@@ -22,7 +22,7 @@ email      : truong.d.karl@gmail.com #this is also the email contact forms will 
 description: "My portfolio"
 author     : Karl Truong
 logo:     #optional, defaults to site title
-  path: assets/img/Smash Ultimate Phanto Sheik PFP.png
+  path: assets/img/Zoomed PFP.jpg
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
