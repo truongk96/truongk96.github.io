@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Work Experience"
-    text: "My work experience"
+    text: "My overall work experience"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -49,19 +49,19 @@ en: &DEFAULT_EN
         desc: "**TODO:** Talk about WWU experience here."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "IT Systems Specialist"
+        year: "JUN-SEPT 2021"
+        desc: "**TODO:** Talk about King County experience here."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Apple Master Sales Advisor"
+        year: "DEC 2021"
+        desc: "**TODO:** Talk about Best Buy sales experience here."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Online Game Programmer"
+        year: "NOV 2021"
+        desc: "**TODO:** Talk about FDAAF experience here."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -71,7 +71,8 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Who I am"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "**TODO:** Write a brief description about myself."
+    image: assets/img/Zoomed PFP.jpg
     section: about
 
   clients:
@@ -131,7 +132,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "Lorem ipsum or call 123456789"
+    text: "Text or call me: 425-941-8222"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
